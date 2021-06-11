@@ -1,4 +1,4 @@
-module github.com/aquasecurity/esquery
+module github.com/okdanta/esquery
 
 go 1.13
 
